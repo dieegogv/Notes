@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoNotas</string>
+    <string name="nombre">Introduce tu nombre para continuar</string>
+    <string name="continuar">Continuar</string>
+</resources>
